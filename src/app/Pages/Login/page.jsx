@@ -1,5 +1,5 @@
 import LoginForm from "@/app/Components/LoginForm.jsx";
-import Image from "../../Components/Image.jsx";
+import Image from "../../Components/ImageCom.jsx";
 
 export default function Login() {
   return (

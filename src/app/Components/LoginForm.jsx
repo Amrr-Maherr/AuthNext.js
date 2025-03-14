@@ -60,7 +60,7 @@ export default function LoginForm() {
             </p>
           </div>
         </div>
-        <div className="mb-[22px] flex justify-between">
+        <div className="mb-[22px] flex justify-between gap-[23px]">
           <div className="flex items-center justify-center gap-[3px] border border-amber-100 rounded-[10px] px-[20px] py-[4px]">
             <img src={GoogleLogo.src} alt="" className="h-[24px] w-[24px]" />
             <p className="text-[12px] font-bold">Sign in with Google</p>
